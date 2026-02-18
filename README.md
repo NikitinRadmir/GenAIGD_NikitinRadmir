@@ -1,3 +1,2 @@
 
-#GenAIGD_NikitinRadmir
-qweqweqewqeqwe
+GenAIGD_NikitinRadmir
